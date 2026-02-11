@@ -1,4 +1,4 @@
-Project Ignorant Rhino — replication analysis
+Project-Aqua-Steel-Pointer — replication analysis
 
 Purpose
 This repository contains an opinionated, minimal analysis pipeline and supporting materials to run the pre-registered independent replication of:
